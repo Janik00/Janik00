@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Janik00 a security student
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning ethical hacking with python development
+- 💞️ I’m looking to collaborate on, anything that drives me
+- 📫 How to reach me - Discord: Eminems#7759
